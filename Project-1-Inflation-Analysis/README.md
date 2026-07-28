@@ -1,32 +1,37 @@
-# Project 1 – The Cost of Living Crisis
+# Economics & Finance Portfolio
 
-## Research Question
+Welcome to my Economics & Finance Portfolio.
 
-**How did inflation change in the United States between 2020 and 2024, and what does this reveal about the cost of living?**
+This repository contains Python projects that explore economic and financial concepts through data analysis and visualization. The goal is to build practical skills in economics, finance, programming, and quantitative analysis while creating a portfolio of real-world projects.
 
----
+## Projects
 
-## Project Overview
+### Project 1 – Inflation Analysis
 
-Inflation affects nearly every household by increasing the cost of essential goods and services, including food, housing, transportation, and healthcare. Between 2020 and 2024, the United States experienced a period of unusually high inflation, making it one of the most significant economic challenges of the decade.
+* Analyzed U.S. inflation data (2020–2025)
+* Used pandas for data analysis
+* Created visualizations with matplotlib
+* Calculated summary statistics
 
-This project uses Python to analyze inflation data stored in a CSV file. The data is processed using **pandas** and visualized with **matplotlib** to show how inflation changed over time.
+### Upcoming Projects
 
----
+* Stock Market Analysis
+* GDP Growth Analysis
+* Unemployment Trends
+* Investment Calculator
+* Consumer Spending Analysis
 
-## Skills Demonstrated
+## Skills
 
-* Python Programming
-* Data Analysis with pandas
-* Data Visualization with matplotlib
-* Economic Reasoning
-* Working with CSV Data
-* Project Organization
+* Python
+* pandas
+* matplotlib
+* Data Analysis
+* Data Visualization
+* Economics
+* Finance
 * Git & GitHub
 
----
-
-## Technologies Used
 
 * Python
 * pandas
