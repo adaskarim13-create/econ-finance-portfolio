@@ -1,8 +1,8 @@
 # Economics & Finance Portfolio
 
-Welcome to my Economics & Finance Portfolio.
+Welcome to my Economics and Finance Portfolio.
 
-This repository contains Python projects that explore economic and financial concepts through data analysis and visualization. The goal is to build practical skills in economics, finance, programming, and quantitative analysis while creating a portfolio of real-world projects.
+This repository contains Python projects that explore economic and financial concepts through data analysis and visualization. The goal is to build practical skills in economics, finance, programming, and quantitative analysis, as these are the topics i have a great interest in and want to excel in, while creating a portfolio of real world projects.
 
 ## Projects
 
